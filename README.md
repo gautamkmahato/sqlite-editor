@@ -13,6 +13,8 @@ Anyone can use this application. Simply clone the repository, install dependenci
 
 ---
 
+![alt text](https://raw.githubusercontent.com/gautamkmahato/sqlite-editor/refs/heads/main/sqliteUI/public/assets/SCREEN.jpg)
+
 ## Features
 
 - **Database Management:**
