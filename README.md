@@ -1,6 +1,6 @@
-# SQLite Online Editor
+# SQLCraft
 
-SQLite Online Editor is an open-source web application that allows you to manage SQLite databases through an intuitive user interface. With this tool, you can:
+SQLCraft is an open-source web application that allows you to manage SQLite databases through an intuitive user interface. With this tool, you can:
 
 - Select and manage your database folder.
 - Create, update, and delete databases.
@@ -37,7 +37,7 @@ Anyone can use this application. Simply clone the repository, install dependenci
 
 ## Installation and Usage
 
-Follow these steps to install and run the SQLite Online Editor:
+Follow these steps to install and run the SQLCraft:
 
 ### Prerequisites
 
